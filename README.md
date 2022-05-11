@@ -1,3 +1,10 @@
+# Output 
+## Project to understand the Context API in React (Alternate for using REDUX (State management) ) 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/67383465/167798570-c648e45b-85aa-4fd7-9644-4169f5d02f91.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/67383465/167798259-1ba9d870-3ed1-41ad-8db2-38ae65f368e9.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
